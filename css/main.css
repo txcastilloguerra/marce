@@ -280,3 +280,11 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+.center {
+    clear: both;
+    float: none;
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
